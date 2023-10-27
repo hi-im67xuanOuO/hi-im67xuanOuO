@@ -27,6 +27,14 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 -->
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-im67xuanouo&show_icons=true&locale=en&layout=compact" alt="hi-im67xuanouo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-im67xuanouo&show_icons=true&locale=en" alt="hi-im67xuanouo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-im67xuanouo&" alt="hi-im67xuanouo" /></p>
+
+
 ## 🌐 Socials
 
 <div> 
