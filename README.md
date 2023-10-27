@@ -1,4 +1,4 @@
-| <a href="https://github.com/hi-im67xuanOuO"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hi-im67xuanOuO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/hi-im67xuanOuO)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hi-im67xuanOuO&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/hi-im67xuanOuO"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hi-im67xuanOuO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  |  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/hi-im67xuanOuO)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hi-im67xuanOuO&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=hi-im67xuanOuO&label=Profile%20Views&color=0&icon=1&pretty=false" />
@@ -10,8 +10,8 @@
 ## 🌐 Socials
 
 <div> 
-  <a href = "mailto:hworkl0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/howard-w-chung/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:67xuan1379@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/chinghsuan-liu-99047b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <!-- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
 <!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white -->
