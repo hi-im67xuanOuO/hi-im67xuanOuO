@@ -28,12 +28,6 @@
 -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-im67xuanouo&show_icons=true&locale=en&layout=compact" alt="hi-im67xuanouo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-im67xuanouo&show_icons=true&include_all_commits=true&locale=en" alt="hi-im67xuanouo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-im67xuanouo&" alt="hi-im67xuanouo" /></p>
-
 
 ## 🌐 Socials
 
@@ -61,4 +55,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hi-im67xuanouo&show_icons=true&locale=en&layout=compact" alt="hi-im67xuanouo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-im67xuanouo&show_icons=true&include_all_commits=true&locale=en" alt="hi-im67xuanouo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-im67xuanouo&" alt="hi-im67xuanouo" /></p>
+
 -->
